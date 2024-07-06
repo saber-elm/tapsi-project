@@ -1,0 +1,39 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="location">
+  <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+    <path d="M16 32a.804.804 0 0 1-.629-.305c-.09-.117-2.27-2.902-4.476-7.015-1.297-2.422-2.336-4.801-3.079-7.067-.941-2.86-1.414-5.554-1.414-8.011C6.402 4.309 10.707 0 16 0c5.293 0 9.602 4.309 9.602 9.602 0 2.457-.477 5.152-1.415 8.011-.746 2.266-1.78 4.645-3.082 7.067-2.207 4.113-4.382 6.898-4.472 7.015a.81.81 0 0 1-.63.305Zm0-30.398c-4.41 0-8 3.585-8 8 0 5.203 2.34 10.66 4.305 14.32A55.9 55.9 0 0 0 16 29.859a54.516 54.516 0 0 0 3.707-5.964C21.664 20.242 24 14.797 24 9.602c0-4.415-3.59-8-8-8Zm0 0"></path>
+    <path d="M16 14.398a4.806 4.806 0 0 1-4.8-4.796C11.2 6.953 13.354 4.8 16 4.8s4.8 2.152 4.8 4.8a4.806 4.806 0 0 1-4.8 4.797Zm0-8a3.204 3.204 0 0 0-3.2 3.204c0 1.761 1.434 3.199 3.2 3.199 1.766 0 3.2-1.438 3.2-3.2A3.204 3.204 0 0 0 16 6.399Zm0 0"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="cellphone">
+  <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+    <path d="M23 24H9V5.332h14M18.668 28h-5.336v-1.332h5.336m2.664-25.336H10.668a4 4 0 0 0-4 4v21.336a4 4 0 0 0 4 4h10.664a4 4 0 0 0 4-4V5.332a4 4 0 0 0-4-4Zm0 0"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="email">
+    <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+    <path d="M29.332 8c0-1.465-1.2-2.668-2.664-2.668H5.332A2.676 2.676 0 0 0 2.668 8v16c0 1.465 1.2 2.668 2.664 2.668h21.336A2.676 2.676 0 0 0 29.332 24Zm-2.664 0L16 14.668 5.332 8Zm0 16H5.332V10.668L16 17.332l10.668-6.664Zm0 0"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" id="facebook">
+    <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+      <g transform="scale(5.12,5.12)">
+        <path d="M41,4h-32c-2.76,0 -5,2.24 -5,5v32c0,2.76 2.24,5 5,5h32c2.76,0 5,-2.24 5,-5v-32c0,-2.76 -2.24,-5 -5,-5zM37,19h-2c-2.14,0 -3,0.5 -3,2v3h5l-1,5h-4v15h-5v-15h-4v-5h4v-3c0,-4 2,-7 6,-7c2.9,0 4,1 4,1z"></path>
+      </g>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" id="linkedin">
+    <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+      <g transform="scale(4,4)">
+        <path d="M40.227,12c10.918,0 11.773,0.854 11.773,11.773v16.453c0,10.919 -0.855,11.774 -11.773,11.774h-16.454c-10.918,0 -11.773,-0.855 -11.773,-11.773v-16.454c0,-10.919 0.855,-11.773 11.773,-11.773zM25.029,43v-16.272h-5.057v16.272zM22.501,24.401c1.625,0 2.947,-1.322 2.947,-2.949c0,-1.625 -1.322,-2.947 -2.947,-2.947c-1.629,0 -2.949,1.32 -2.949,2.947c0,1.627 1.318,2.949 2.949,2.949zM44,43v-8.925c0,-4.382 -0.946,-7.752 -6.067,-7.752c-2.46,0 -4.109,1.349 -4.785,2.628h-0.068v-2.223h-4.851v16.272h5.054v-8.05c0,-2.122 0.405,-4.178 3.036,-4.178c2.594,0 2.628,2.427 2.628,4.315v7.913z"></path>
+      </g>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" id="twitter">
+    <g fill="#ff5722" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
+      <g transform="scale(3.55556,3.55556)">
+        <path d="M63,19.645c-1.43,2.143 -3.24,4.026 -5.325,5.538c0.02,0.459 0.03,0.921 0.03,1.384c0,14.134 -10.728,30.433 -30.352,30.433c-6.025,0 -13.877,-2.116 -16.353,-4.805c0.836,0.1 1.686,0.15 2.546,0.15c4.999,0 9.6,-1.711 13.249,-4.58c-4.668,-0.086 -8.608,-3.18 -9.966,-7.43c2.124,0.334 4.818,-0.184 4.818,-0.184c0,0 -8.342,-1.436 -8.558,-10.622c2.412,1.402 4.832,1.338 4.832,1.338c0,0 -4.811,-2.97 -4.744,-8.901c0.039,-3.499 1.442,-5.38 1.442,-5.38c9.115,11.255 21.989,11.178 21.989,11.178c0,0 -0.276,-1.598 -0.276,-2.436c0,-5.906 4.775,-10.697 10.667,-10.697c3.068,0 5.84,1.3 7.786,3.379c2.432,-0.482 4.716,-1.372 6.776,-2.597c-0.931,3.737 -4.69,5.918 -4.69,5.918c0,0 3.219,-0.36 6.129,-1.686z"></path>
+      </g>
+    </g>
+  </symbol>
+</svg>
